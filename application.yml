@@ -8,7 +8,7 @@ server:
 spring:
     profiles: dev
     application:
-        name: application-dev2020-8-28
+        name: application-dev2020-8-30
 
 ---
 server:
